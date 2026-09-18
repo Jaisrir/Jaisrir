@@ -1,130 +1,119 @@
 <div align="center">
 
-# 👋 Hi, I'm Sriram
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Sriram%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Tech%20Enthusiast%20•%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
-### 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+💻;Turning+ideas+into+code+🚀;Always+learning+something+new+🌱" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/Jaisrir">
-    <img src="https://img.shields.io/badge/GitHub-Jaisrir-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Jaisrir-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000">
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Jaisrir&style=for-the-badge&color=2575fc&label=PROFILE+VIEWS" />
+
 </div>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **interesting web projects**
-- 🌱 Currently learning **Full Stack Development**
-- 💡 Interested in **Web Development, Software Development & AI**
-- 🎯 Goal: Build useful and impactful applications
-- ⚡ Fun fact: I love turning ideas into code!
+```yaml
+name: Sriram
+role: Full Stack Developer
+currently_building: "interesting web projects"
+currently_learning: "Full Stack Development"
+interests: ["Web Development", "Software Development", "AI"]
+goal: "Build useful and impactful applications"
+fun_fact: "I love turning ideas into code!"
+```
 
----
+<br>
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,mysql&theme=dark&perline=10" />
 
 </div>
 
----
+> Rendered with a dark, glossy icon set for a bit of depth — GitHub doesn't allow real CSS shadows/3D transforms in READMEs, so this is the closest legitimate substitute to a "lit" look.
+
+<br>
 
 ## 🚀 Featured Projects
 
-### 🎮 XO Game
-A simple interactive Tic-Tac-Toe game built using web technologies.
+<div align="center">
 
-**Tech:** HTML • CSS • JavaScript
+<a href="https://github.com/Jaisrir/XO-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaisrir&repo=XO-Game&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Jaisrir/Face-Prep-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaisrir&repo=Face-Prep-Project&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Jaisrir/Registration-Form">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaisrir&repo=Registration-Form&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
 
----
+</div>
 
-### 📝 Face Prep Project
-A web-based project created while learning and practicing frontend development.
+> ⚠️ Replace the `repo=` values above with your **exact** repository names — pin cards only render if the repo exists and is public.
 
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 📋 Registration Form
-A responsive registration form project focused on frontend UI and form design.
-
-**Tech:** HTML • CSS
-
----
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaisrir&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Jaisrir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2575fc&icon_color=6a11cb&border_radius=12" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisrir&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisrir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2575fc&border_radius=12" height="170">
 
 </div>
 
----
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jaisrir&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
+
+</div>
+
+<br>
 
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jaisrir&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=Jaisrir&theme=tokyonight&hide_border=true&background=0D1117&ring=2575FC&fire=6A11CB&currStreakLabel=2575FC" />
 
 </div>
 
----
+<br>
 
-## 📈 My GitHub Activity
+## 📈 My Contribution Graph
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaisrir&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaisrir&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff)
 
 </div>
 
----
-
-## 🌐 Connect With Me
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Jaisrir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 
-<a href="mailto:sriram.cse.elangovan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/sriram-e/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=Jaisrir&style=for-the-badge&color=blue">
+### ⭐ Thanks for stopping by — feel free to explore, star, and connect!
 
 </div>
