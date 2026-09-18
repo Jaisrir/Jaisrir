@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7f1d1d"/><stop offset=".5" stop-color="#dc2626"/><stop offset="1" stop-color="#7f1d1d"/></linearGradient></defs>
+<rect width="1200" height="170" rx="22" fill="#080808"/>
+<path d="M0 70 Q300 10 600 70 T1200 70" fill="none" stroke="url(#g)" stroke-width="3"/>
+<path d="M0 85 Q300 25 600 85 T1200 85" fill="none" stroke="#ef4444" stroke-opacity=".25" stroke-width="1"/>
+<text x="600" y="125" text-anchor="middle" fill="#f3f4f6" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">THANKS FOR VISITING • KEEP BUILDING</text>
+</svg>
